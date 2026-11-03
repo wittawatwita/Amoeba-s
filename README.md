@@ -3,8 +3,7 @@ Enter password: #enter ถ้าไม่มีรหัส
 
 show database; #แสดงทั้งหมดของ database
 MariaDB [(none)]> SHOW DATABASES;
-
-+--------------------+
++-------------------+
 | Database           |
 +--------------------+
 | cal                |
@@ -21,7 +20,6 @@ MariaDB [(none)]> SHOW DATABASES;
 | today              |
 | x.com              |
 +--------------------+
-
 13 rows in set (0.053 sec)
 
 
